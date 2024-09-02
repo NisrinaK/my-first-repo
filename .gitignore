@@ -1,0 +1,35 @@
+*.DAT
+*.ini
+*.regtrans-ms
+*.blf
+ntuser.*
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+.cache/
+.gitconfig
+.gradle/
+.lesshst
+.m2/
+.matplotlib/
+.redhat/
+.viminfo
+.vscode/
