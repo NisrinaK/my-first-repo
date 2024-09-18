@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-﻿# my-first-repo
-Nama : Nisrina Kamilya Nisyya
-
-NPM : 2306275456
-
-Kelas : PBP A
-
-Hobi : Main
-=======
 # <p align="center"><img src="staticfiles/assets/logo/icon_horizontal.png" style="width: 350px; margin-bottom: -25px" alt="First Portofolio"></p>
 
 ### Hi there 👋
@@ -30,4 +20,3 @@ Here is the link that you might find helpful in setting up your project:
 1. [Build a Complete Responsive Personal Portfolio Website](https://youtu.be/XRSQHkzrQGQ?si=0jVE0dnChuiInPD0)
 
 <br>
->>>>>>> 975e1afdf0ffdb7dd96ac4665146596a329ce835
