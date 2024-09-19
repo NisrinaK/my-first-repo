@@ -11,12 +11,3 @@
 * 📫 How to reach me: ...
 * ❤️ I love ...
 * ⚡ Fun fact: ...
-
-<br>
-
-# 🛠️ **CONTRIBUTION**<be>
-
-Here is the link that you might find helpful in setting up your project:
-1. [Build a Complete Responsive Personal Portfolio Website](https://youtu.be/XRSQHkzrQGQ?si=0jVE0dnChuiInPD0)
-
-<br>
